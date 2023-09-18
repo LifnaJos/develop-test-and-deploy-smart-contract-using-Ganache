@@ -47,5 +47,34 @@
 
 ![gananche](https://github.com/LifnaJos/develop-test-and-deploy-smart-contract-using-Ganache/blob/main/Screenshot%20from%202023-09-18%2006-44-06.png)
 
-## Step - 2 : 
-- 
+## Step - 2 : Connect Metamask with Ganache
+
+1. Login to Metamask Wallet
+2. Add Ganache Test Network with the following credentials
+   - Network Name : **Ganache**
+   - New RPC URL : **HTTP://127.0.0.1:7545**
+   - Chain ID : **1337**
+   - Currency Symbol : **ETH**
+
+![Ganache](https://github.com/LifnaJos/develop-test-and-deploy-smart-contract-using-Ganache/blob/main/Screenshot%20from%202023-09-18%2011-09-24.png)
+
+3. Add Accounts from Ganache into Metamask
+   
+- Open the Ganache IDE, clicl on the privatre key for any account. Copy the Private Key
+
+![Ganache](https://github.com/LifnaJos/develop-test-and-deploy-smart-contract-using-Ganache/blob/main/Screenshot%20from%202023-09-18%2011-18-12.png)
+
+- Go to Matamask, select **Import Account** option. 
+
+![Ganache](https://github.com/LifnaJos/develop-test-and-deploy-smart-contract-using-Ganache/blob/main/Screenshot%20from%202023-09-18%2011-30-40.png)
+
+- Paste the Private Key of the Account. Click on **Import** button.
+
+![Ganache](https://github.com/LifnaJos/develop-test-and-deploy-smart-contract-using-Ganache/blob/main/Screenshot%20from%202023-09-18%2011-32-17.png)
+
+- Check the status of Account added to the Metamask
+  
+![Ganache](https://github.com/LifnaJos/develop-test-and-deploy-smart-contract-using-Ganache/blob/main/Screenshot%20from%202023-09-18%2011-32-30.png)
+ 
+## Step - 3 : Connect Remix IDE with Metamask
+1. 
