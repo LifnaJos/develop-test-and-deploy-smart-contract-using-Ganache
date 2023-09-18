@@ -77,4 +77,35 @@
 ![Ganache](https://github.com/LifnaJos/develop-test-and-deploy-smart-contract-using-Ganache/blob/main/Screenshot%20from%202023-09-18%2011-32-30.png)
  
 ## Step - 3 : Connect Remix IDE with Metamask
-1. 
+
+On the Remix IDE, select the Environment : **Injected Provider(Metamask)** . Follow the steps to establish Connection. Select an Account from the Wallet
+
+![Ganache](https://github.com/LifnaJos/develop-test-and-deploy-smart-contract-using-Ganache/blob/main/Screenshot%20from%202023-09-18%2011-37-49.png)
+
+## Step - 4 : Deploy Smart Contract in Remix IDE via Ganache Accounts added to Metamask
+
+1. After compiling the Smart Contract in Remix IDE, deploy the Contract.
+
+![Ganache](https://github.com/LifnaJos/develop-test-and-deploy-smart-contract-using-Ganache/blob/main/Screenshot%20from%202023-09-18%2011-51-39.png)
+
+2. Metamask Account status is updated
+
+![Ganache](https://github.com/LifnaJos/develop-test-and-deploy-smart-contract-using-Ganache/blob/main/Screenshot%20from%202023-09-18%2011-52-10.png)
+
+3. Check the Ganache Environment. We can see that the Transaction Count for the first account is 1
+![Ganache](https://github.com/LifnaJos/develop-test-and-deploy-smart-contract-using-Ganache/blob/main/Screenshot%20from%202023-09-18%2011-57-55.png)
+
+4. Check the Mined Block
+
+![Ganache](https://github.com/LifnaJos/develop-test-and-deploy-smart-contract-using-Ganache/blob/main/Screenshot%20from%202023-09-18%2011-57-23.png)
+   
+5. Check the Transaction details
+ 
+![Ganache](https://github.com/LifnaJos/develop-test-and-deploy-smart-contract-using-Ganache/blob/main/Screenshot%20from%202023-09-18%2011-57-37.png)
+
+## Acknowledgement
+* [Metamask](https://support.metamask.io/hc/en-us/articles/360015489531-Getting-started-with-MetaMask) to understand how to install Metamask Wallet
+
+* [Metaschool](https://metaschool.so/rpc/ganache) for the article on **How to add Ganache RPC to MetaMask**. this was helpful in setting the Ganache Network in Metamask.
+
+* [Basic Writing & Formatting Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
