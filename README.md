@@ -114,6 +114,8 @@ On the Remix IDE, select the Environment : **Injected Provider(Metamask)** . Fol
 ## Acknowledgement
 * [Metamask](https://support.metamask.io/hc/en-us/articles/360015489531-Getting-started-with-MetaMask) to understand how to install Metamask Wallet
 
+*[Ganache](https://trufflesuite.com/docs/ganache/) steps to install Ganache and understand the basics of Ganache
+
 * [Metaschool](https://metaschool.so/rpc/ganache) for the article on **How to add Ganache RPC to MetaMask**. this was helpful in setting the Ganache Network in Metamask.
 
 * [Basic Writing & Formatting Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
