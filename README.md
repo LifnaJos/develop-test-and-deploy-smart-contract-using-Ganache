@@ -103,6 +103,14 @@ On the Remix IDE, select the Environment : **Injected Provider(Metamask)** . Fol
  
 ![Ganache](https://github.com/LifnaJos/develop-test-and-deploy-smart-contract-using-Ganache/blob/main/Screenshot%20from%202023-09-18%2011-57-37.png)
 
+6. Perform the functions in the Smart Contract, **Storage.sol**
+
+![Ganache](https://github.com/LifnaJos/develop-test-and-deploy-smart-contract-using-Ganache/blob/main/Screenshot%20from%202023-09-18%2012-18-58.png)
+
+7. Chek the Transaction details in Ganache
+
+![Ganache](https://github.com/LifnaJos/develop-test-and-deploy-smart-contract-using-Ganache/blob/main/Screenshot%20from%202023-09-18%2012-18-27.png)
+
 ## Acknowledgement
 * [Metamask](https://support.metamask.io/hc/en-us/articles/360015489531-Getting-started-with-MetaMask) to understand how to install Metamask Wallet
 
